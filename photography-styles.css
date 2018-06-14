@@ -1,0 +1,34 @@
+.twbs h3 {
+    font-size:16px;
+}
+
+.twbs .fa-bookmark, .fa-camera, .fa-caret-square-o-up {
+    margin-right: .5em;
+}
+
+.twbs .photo-credit span {
+    margin-left: .5em;
+}
+
+.twbs .photography-style-section {
+    border-bottom: 1px solid #eaedf0;
+    padding: 1em 0 3em 0;
+}
+
+.twbs .back-to-top {
+    text-align: center;
+    margin-top: 2em;
+    float: right;
+}
+
+.additional-resources {
+    float: left;
+}
+
+.twbs h2 {
+    margin-bottom: 1em;
+}
+
+.twbs .col-md-4 {
+    margin-top: 2em;
+}
