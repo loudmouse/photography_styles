@@ -13,4 +13,4 @@ Browse the full list [65 Photography Styles to Inspire](https://www.artmill.com/
 **Front End Tech**
 - HTML
 - CSS
-- Bootrap
+- Bootstrap
