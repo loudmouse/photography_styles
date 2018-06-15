@@ -13,4 +13,4 @@
 
 
 **Screenshots**
-![65 Photography Styles](https://imgur.com/a/PpT3Jro)
+![65 Photography Styles](screenshots/screenshot1.png)
