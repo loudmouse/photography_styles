@@ -14,3 +14,6 @@
 
 **Screenshots**
 ![65 Photography Styles](screenshots/screenshot1.png)
+![65 Photography Styles Continued](screenshots/screenshot2.png)
+
+Browse the full list [65 Photography Styles to Inspire](https://www.artmill.com/articles/65-types-of-photography/).
